@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "snapshot": {
+    "widths": [
+      375,
+      1080,
+      1920
+    ],
+    "minHeight": 1024,
+    "percyCSS": "",
+    "enableJavaScript": false
+  },
+  "discovery": {
+
+    "networkIdleTimeout": 250,
+    "disableCache": true,
+    "requestHeaders": {},
+    "concurrency": 20
+  }
+}
